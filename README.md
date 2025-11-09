@@ -1,4 +1,5 @@
-<img width="772" height="406" alt="{3D0989C3-C8D4-4993-B374-9CA925412B57}" src="https://github.com/user-attachments/assets/d2f98f77-d149-4fdd-b517-8f1d726ed31b" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6677ee36-e073-4087-8a28-c587eab7a98d" />
+
 
 
 <h1 align="center">🎯 tickys recoil app</h1>
@@ -16,10 +17,16 @@ It’s designed for testing, development, and accessibility — featuring a dark
 and full config management for saving and loading recoil profiles.
 
 <p align="center">
-  <img src="preview.png" width="80%" alt="App UI Preview">
+  <img width="983" height="557" alt="{9FEA11F2-F408-4A23-A487-C8138DB8055A}" src="https://github.com/user-attachments/assets/60886057-215c-4d79-b877-1ba17c76a3ea" />
 </p>
 
+
+Uploading showcase.mp4…
+
+
 ---
+
+
 
 ## ⚙️ Features
 
