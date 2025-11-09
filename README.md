@@ -24,7 +24,7 @@ and full config management for saving and loading recoil profiles.
 
 https://github.com/user-attachments/assets/a0b0b948-f3b0-43a3-b416-f38370bff386
 
-
+Apologies for the video quality; I had to heavily compress it.
 
 
 
