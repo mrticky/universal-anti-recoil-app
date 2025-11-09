@@ -21,7 +21,11 @@ and full config management for saving and loading recoil profiles.
 </p>
 
 
-Uploading showcase.mp4…
+
+https://github.com/user-attachments/assets/a0b0b948-f3b0-43a3-b416-f38370bff386
+
+
+
 
 
 ---
